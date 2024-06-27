@@ -1,4 +1,4 @@
-# TutorDekho
+ TutorDekho
 A Full Stack Online Private Tutor Finding Website
 
 Are you tired of finding private tutors for you or your family? This website is for you!
